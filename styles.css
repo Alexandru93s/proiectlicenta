@@ -114,7 +114,7 @@
       --fs-1000: 7.5rem;
     }
   }
-  /* in another selector for syntax highlighting reasons only */
+
   :root {
     --text-main: var(--clr-gray-100);
     --text-high-contrast: var(--clr-white);
